@@ -1,0 +1,12 @@
+{
+  "name": "solve-45-assignment",
+  "version": "1.0.0",
+  "description": "typescript and node.js 45 assignment",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
